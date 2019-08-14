@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StockportGovUK.AspNetCore.ActiveDirectory</id>
+    <version>0.1.0</version>
+    <title>A simple package that abstract the looking up and searching of Active Directory(AD).</title>
+    <authors>Colin Lees, Jon Chiles, Jon Hadley</authors>
+    <owners>Colin Lees, Jon Chiles, Jon Hadley</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="System.DirectoryServices" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\bin\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.dll" target="lib\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.dll" />
+  </files>
+</package>
