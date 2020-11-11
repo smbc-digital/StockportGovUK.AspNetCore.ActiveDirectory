@@ -1,9 +1,0 @@
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\bin\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.deps.json
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\bin\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.dll
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\bin\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.pdb
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\obj\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.csprojAssemblyReference.cache
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\obj\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.csproj.CoreCompileInputs.cache
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\obj\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.AssemblyInfoInputs.cache
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\obj\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.AssemblyInfo.cs
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\obj\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.dll
-C:\Code\Microservices\Libraries\StockportGovUK.AspNetCore.ActiveDirectory\src\obj\Debug\netcoreapp2.2\StockportGovUK.AspNetCore.ActiveDirectory.pdb
